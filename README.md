@@ -2,6 +2,8 @@
 
 A WordPress plugin that provides a calculator for determining WAV recording time based on storage capacity and audio settings. This tool helps audio professionals and enthusiasts calculate recording duration for their WAV files based on various technical parameters.
 
+**[Live Demo](https://vincentrozenberg.com/wav-calculator/)**
+
 ## Features
 
 - Calculate recording time based on:
