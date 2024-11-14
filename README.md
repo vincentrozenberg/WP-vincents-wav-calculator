@@ -22,7 +22,7 @@ A WordPress plugin that provides a calculator for determining WAV recording time
 ## Installation
 
 1. **[Download](https://github.com/vincentrozenberg/WP-vincents-wav-calculator/archive/refs/heads/main.zip/)** the plugin files
-2. Upload the plugin folder to the `/wp-content/plugins/` directory
+2. Upload the plugin folder to the `/wp-content/plugins/` directory, or upload the zip file via WordPress admin panel > Plugins > Add New > Upload Plugin
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Usage
